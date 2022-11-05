@@ -10,4 +10,4 @@ Feel free to check them.
 #### SOON!
 
 ## 📝 License
-This project is [https://github.com/Marti2509/EducationAndCompetitions/blob/main/LICENSE) licensed. ©
+This project is [MIT](https://github.com/Marti2509/EducationAndCompetitions/blob/main/LICENSE) licensed. ©
