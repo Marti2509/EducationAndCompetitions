@@ -6,6 +6,7 @@ Feel free to check them.
 #### [My Generic List](https://github.com/Marti2509/EducationAndCompetitions/tree/main/Education/School/MyGenericList)
 #### [My Generic Stack](https://github.com/Marti2509/EducationAndCompetitions/tree/main/Education/School/MyGenericStack)
 #### [My Generic Queue](https://github.com/Marti2509/EducationAndCompetitions/tree/main/Education/School/MyGenericQueue)
+#### [HackerRankCSharpBasicTest](https://github.com/Marti2509/EducationAndCompetitions/tree/main/Education/Hacker%20Rank/HackerRankCSharpBasicTest)
 
 ### Competitions 👇
 #### SOON!
