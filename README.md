@@ -9,7 +9,7 @@ Feel free to check them.
 #### [HackerRankCSharpBasicTest](https://github.com/Marti2509/EducationAndCompetitions/tree/main/Education/Hacker%20Rank/HackerRankCSharpBasicTest)
 
 ### Competitions 👇
-#### SOON!
+#### [TU-VARNA_26-27-11-2022](https://github.com/Marti2509/EducationAndCompetitions/tree/main/Competitions/TU-VARNA_26-27-11-2022)
 
 ## 📝 License
 This project is [MIT](https://github.com/Marti2509/EducationAndCompetitions/blob/main/LICENSE) licensed. ©
