@@ -16,6 +16,7 @@ Feel free to check them.
 
 ### Competitions 👇
 #### [TU-VARNA_26-27-11-2022](https://github.com/Marti2509/EducationAndCompetitions/tree/main/Competitions/TU-VARNA_26-27-11-2022)
+#### [SOFTUNIADA 2023](https://github.com/Marti2509/EducationAndCompetitions/tree/main/Competitions/SoftUniada-2023)
 
 ## 📝 License
 This project is [MIT](https://github.com/Marti2509/EducationAndCompetitions/blob/main/LICENSE) licensed. ©
